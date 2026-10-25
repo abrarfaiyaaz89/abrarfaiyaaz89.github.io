@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.abrarfaiyaaz89.mgt39",
+        "sha256_cert_fingerprints": ["1F:FE:73:4A:7F:71:C9:10:E9:06:F2:1A:08:EC:53:0A:04:90:4B:9D:64:36:B3:04:1A:E2:87:A1:4A:E2:6B:55"]
+      }
+    }]
